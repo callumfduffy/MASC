@@ -1,0 +1,10 @@
+nodes,node_inv_init,node_prod_cost,node_prod_time,node_hold_cost,node_prod_capacity,node_inv_capacity,node_type,node_yield,node_operating_cost,node_pos_x,node_pos_y
+0,0,0,0,0,0,0,market,1,0,0,
+1,100.0,0.0,2,0.030,inf,100.0,distrib-retail,1,0,0,0
+2,110.0,0.0,5,0.020,inf,100.0,distrib,1,0,100,0
+3,80.0,0.0,5,0.015,inf,100.0,distrib,1,0,200,-100
+4,400.0,0.0,6,0.012,90,100.0,factory,1,0.01,200,0
+5,350.0,0.0,3,0.013,90,100.0,factory,1,0.015,200,100
+6,380.0,0.0,7,0.011,80,100.0,factory,1,0.012,300,-100
+7,0.0,0.0,5,0.01,inf,100.0,rawmat,1,0,300,100
+8,0.0,0.0,5,0.01,inf,100.0,rawmat,1,0,300,100
